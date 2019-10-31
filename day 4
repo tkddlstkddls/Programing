@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<body>
+<h1>Variable</h1>
+<?php
+$a = 10;
+echo $a;
+?>
+
+</body>
+</html>
+
+php의 변수(variable)사용
