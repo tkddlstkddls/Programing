@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<body>
+<h1>
+1+1
+</h1>
+<?php
+echo 1+1;
+?>
+<?php
+echo 2-1;
+?>
+<h2>
+2-1
+</h2>
+</body>
+</html>
+
+
+echo 1+1은 결과 2가나오고, h태그안에서는, 써준 그대로 나온다.
