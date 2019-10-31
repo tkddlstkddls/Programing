@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<h1>WHILE
+</h1>
+<body>
+    <?php
+    $a =5;
+    ?>
+    <?php
+while($a){
+    echo 'sangin<br>';
+    $a--;
+}
+    ?>
+</body>
+</html>
+
+
+
+while문을 사용한 간단한 반복문 사용 애플리케이션
