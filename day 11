@@ -1,0 +1,4 @@
+fetch_array(MYSQLI_ASSOC) 함수
+
+
+$변수명 -> fetch_array(MYSQLI_ASSOC)은 변수(예 , select문)에서 찾은 데이터들을 배열로 받아옴.
